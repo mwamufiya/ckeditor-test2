@@ -13,7 +13,12 @@
     "@angular/platform-browser": "~15.2.0",
     "@angular/platform-browser-dynamic": "~15.2.0",
     "@angular/router": "~15.2.0",
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "@ckeditor/ckeditor5-angular": "^5.2.0",
+    "@ckeditor/ckeditor5-build-inline": "^36.0.1",
     "@nrwl/angular": "15.8.5",
+    "babel-jest": "^29.5.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"

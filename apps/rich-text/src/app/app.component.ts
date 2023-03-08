@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { CKEditorModule } from '@ckeditor/ckeditor5-angular';
 
 @Component({
   selector: 'ckeditor-test-root',
